@@ -1,0 +1,36 @@
+id: I454FEAF4
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T01:02:39.225588'
+last_modified: '2022-06-19T01:02:39.225601'
+parser: null
+source_metadata:
+  title: Hagiography of Don yod grub pa
+  author: རྗེ་བཙུན་ཀུན་དགའ་གྲོལ་མཆོག
+  description: 'Digital version 1.0 {Tibetan}; master xml (completed: 2014-06-24);
+    no thematic TEI markup'
+  file_info:
+  - 'Language: Tibetan'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:ས་སྐྱ་ཞིབ་འཇུག་ཁང་། (src)
+  - Text input:Samdrub
+  - Editorial process:Mathias Fermer (mf)
+  - TEI Encoding:ས་སྐྱ་ཞིབ་འཇུག་ཁང་།
+  - TEI Markup:-
+  - Revisions/Corrections:-
+  text_witnesses: https://sakyaresearch.org/sources/754
+  bases:
+    410a:
+      title: Hagiography of Don yod grub pa
+      order: 1
+      base_file: 410a.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
